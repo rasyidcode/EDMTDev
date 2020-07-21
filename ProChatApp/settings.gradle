@@ -1,0 +1,4 @@
+include ':prochatapp_kotlin'
+include ':prochatapp_java'
+include ':app'
+rootProject.name = "ProChatApp"
